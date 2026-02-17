@@ -1,0 +1,19 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Black truffle placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3ebd8"/>
+      <stop offset="100%" stop-color="#e8dcc0"/>
+    </linearGradient>
+    <radialGradient id="truffle" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#5b5047"/>
+      <stop offset="60%" stop-color="#3b312b"/>
+      <stop offset="100%" stop-color="#1f1815"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="600" cy="470" rx="340" ry="220" fill="url(#truffle)"/>
+  <ellipse cx="520" cy="410" rx="55" ry="35" fill="#6f655c" opacity="0.5"/>
+  <ellipse cx="660" cy="520" rx="70" ry="40" fill="#685d54" opacity="0.35"/>
+  <text x="600" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="66" fill="#4d3d2f">Black Truffle</text>
+  <text x="600" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#6f5b49">Placeholder Visual</text>
+</svg>
